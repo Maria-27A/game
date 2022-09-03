@@ -1,52 +1,14 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Описание_проекта)
+[1. Описание проекта](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Описание-проекта)
 [2. Какой кейс решаем?](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 [5. Результат](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Результат)
 [6. Выводы](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Выводы)
 
-## Описание проекта
+### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
-
-## Какой кейс решаем?
-Нужно написать программу, которая угадывает загаданное компьютером число за минимальное число попыток
-
-**Условия соревнования:**
-- Компьютер загадывает целое число от 0 до 100, и нам нужно его угадать. Под "угадать" подразумевается "написать программу, которая угадывает чмсло"
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам
-
-**Метрика качества:**
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем:**
-Учимся писать хороший код на Python, работать с IDE, GitHub
-
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
-
-## Краткая информация о данных
-В данном проекте первоначальные данные отсутствуют
-
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
-
-## Этапы работы над пректом
-- Алгоритмическое решение кейса
-- Написание корректного кода на Python
-- Оформление проекта
-- Загрузка проекта на GitHub 
-
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
-
-## Результат
-Проект c корректным решением кейса "Угадай число  от 0 до 100 с минимальным числом попыток" представлен в репозитории на GitHub
-
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
-
-## Выводы
-В процессе выполнения кейса были закреплены знания по написанию кода на Python, умения по работе с VSCode и GitHub и оформлению проекта
-
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/blob/master/module_7/README.md#Оглавление)
