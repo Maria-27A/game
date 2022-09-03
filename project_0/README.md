@@ -11,4 +11,4 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/blob/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/blob/main/project_0/README.md#Оглавление)
