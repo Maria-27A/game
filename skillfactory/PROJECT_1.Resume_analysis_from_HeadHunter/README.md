@@ -2,7 +2,11 @@
   (ссылка на проект https://drive.google.com/drive/folders/1Gh4wem_Ebq2nA_O7HI2MptwY2SKi6qWT)
 
 ## Оглавление
+<<<<<<< HEAD
 1. [Описание проекта](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Описание-проекта)
+=======
+1. [Описание проекта]https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Описание-проекта)
+>>>>>>> da44ddb (edit_README.md)
 2. [Какой кейс решаем?](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Этапы-работы-над-проектом)
@@ -13,6 +17,10 @@
 На основе базы резюме, выгруженной с сайта поиска вакансий hh.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 
 :arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
+<<<<<<< HEAD
+=======
+
+>>>>>>> da44ddb (edit_README.md)
 
 ### Какой кейс решаем?
 Нужно предварительно подготовить имеющиеся данные путем их изучения, преобразования с возможностью дальнейшего исследования и проведения очистки, что позволит в дальнейшем построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
