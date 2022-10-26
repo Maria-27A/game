@@ -2,17 +2,17 @@
   (ссылка на проект https://drive.google.com/drive/folders/1Gh4wem_Ebq2nA_O7HI2MptwY2SKi6qWT)
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Описание-проекта)
-2. [Какой кейс решаем?](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Этапы-работы-над-проектом)
-5. [Результат](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Результат)
-6. [Выводы](https://github.com/Maria-27A/game/blob/main/project_1/README.md#Выводы)
+1. [Описание проекта](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Этапы-работы-над-проектом)
+5. [Результат](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Результат)
+6. [Выводы](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Выводы)
 
 ### Описание проекта
 На основе базы резюме, выгруженной с сайта поиска вакансий hh.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно предварительно подготовить имеющиеся данные путем их изучения, преобразования с возможностью дальнейшего исследования и проведения очистки, что позволит в дальнейшем построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
@@ -29,12 +29,12 @@
 **Что практикуем:**
 Учимся корректно писать код на Python для анализа и преобразования исходных данных, работать с основами IDE, практикуем методы очистки данных, навыки по представлению проекта на GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 ### Краткая информация о данных
 В данном проекте первоначальные данные представлены в виде датасета размером: 44744 строки, 12 столбцов, типа object, в отдельных столбцах присутствуют пропуски и дубликаты. В связи с этим необходимо более детально проанализировать структуру первоначальных данных, сделать выводы о дальнейших преобразованиях. 
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 ### Этапы работы над проектом
 - Ознакомление с описанием задачи
@@ -47,14 +47,14 @@
 - Оформление проекта
 - Загрузка проекта на GitHub 
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 ### Результат
 Проект c корректным выполнением кейса "Анализ резюме из HeadHunter " представлен в репозитории на GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 ### Выводы
 В процессе выполнения кейса первоначальные данные были проанализированы, преобразованы, проведен разведывательный анализ данных с последующей визуализацией результатов с целью выявления взаимосвязей между признаками, данные были очищены от пропусков и дубликатов. Таким образом первоначальный датасет подготовлен для дальнейшего использования при построении требуемой модели. 
 
-:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Maria-27A/game/tree/main/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Оглавление)
