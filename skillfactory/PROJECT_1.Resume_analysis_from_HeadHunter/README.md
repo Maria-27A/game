@@ -1,5 +1,5 @@
-# Проект 2. Анализ резюме из HeadHunter 
-  (ссылка на проект https://drive.google.com/drive/folders/1Gh4wem_Ebq2nA_O7HI2MptwY2SKi6qWT)
+# Проект 1. Анализ резюме из HeadHunter 
+  (ссылка на проект https://drive.google.com/drive/folders/1HLxkeJiIyqBttzs50Xc74pJ-9JoM320l)
 
 ## Оглавление
 1. [Описание проекта](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Описание-проекта)
